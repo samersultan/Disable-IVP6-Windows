@@ -10,7 +10,7 @@ IPv6 can sometimes cause connectivity or compatibility issues on specific networ
 
 1. **Download the script**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/samersultan/Disable-IVP6-Windows/blob/main/README.md
    ```
 
 2. **Run PowerShell as Administrator**:
